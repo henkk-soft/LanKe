@@ -6,7 +6,7 @@
 
 ## 软件截图
 
-![1](img/1.jpg)![1](img/2.jpg)![1](img/3.jpg)![1](img/4.jpg)![1](img/5.jpg)![1](img/6.jpg)
+![1](img/1.jpg)![1](img/3.jpg)![1](img/4.jpg)![1](img/5.jpg)![1](img/6.jpg)
 
 ## 关于软件
 
