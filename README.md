@@ -6,11 +6,7 @@
 
 ## 软件截图
 
-<img src="img/1.jpg" width = "100" alt="" align=center />
-<img src="img/6.jpg" width = "83" alt="" align=center />
-<img src="img/3.jpg" width = "100" alt="" align=center />
-<img src="img/4.jpg" width = "100" alt="" align=center />
-<img src="img/5.jpg" width = "100" alt="" align=center />
+<img src="img/1.jpg" width = "100" alt="" align=center /><img src="img/6.jpg" width = "83" alt="" align=center /><img src="img/3.jpg" width = "100" alt="" align=center /><img src="img/4.jpg" width = "100" alt="" align=center /><img src="img/5.jpg" width = "100" alt="" align=center />
 
 ## 关于软件
 
