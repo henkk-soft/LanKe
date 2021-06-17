@@ -6,12 +6,7 @@
 
 ## 软件截图
 
-![1](https://imgur.com/0ZpH9vR.jpg)
-![1](https://imgur.com/J0cZdcg.jpg)
-![1](https://imgur.com/8EHd5BZ.jpg)
-![1](https://imgur.com/G0au73E.jpg)
-![1](https://imgur.com/zNd4uNw.jpg)
-![1]()
+![1](img/1.jpg)![1](img/2.jpg)![1](img/3.jpg)![1](img/4.jpg)![1](img/5.jpg)![1](img/6.jpg)
 
 ## 关于软件
 
