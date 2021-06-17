@@ -6,15 +6,21 @@
 
 ## 软件截图
 
-
+![1](https://imgur.com/0ZpH9vR.jpg)
+![1](https://imgur.com/J0cZdcg.jpg)
+![1](https://imgur.com/8EHd5BZ.jpg)
+![1](https://imgur.com/G0au73E.jpg)
+![1](https://imgur.com/zNd4uNw.jpg)
+![1]()
 
 ## 关于软件
 
-Android 7.0 及以上，在Android 10的一加手机上成功运行，其它机型未测试
+Android 7.0 及以上，在Android 10的一加手机上成功运行，其它机型未测试(7.1的安卓虚拟机上导出视频闪退，暂时未找到原因)。
 
 因为是跨平台框架开发，开发时也注重了兼容性，按道理也可编译IOS版本，不过苹果开发者账号太贵了，所以暂时就没有编译苹果版本以及上架apple store计划
 
 因为第一次接触flutter框架，代码写的太烂了，等把代码重构之后再开源。
+
 
 ## TODO
 
